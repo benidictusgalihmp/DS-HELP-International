@@ -13,12 +13,12 @@
 Data analysis to give recommendations of countries that need to be helped by HELP International. Uses K-Means Clustering to group multiple country clusters based on specific criteria. Analysis started with looking for missing values as well as NaN values and getting descriptive analysis. Then analyzed the distribution and relationship of the data with Univariate, Bivariate, and Multivariate analysis. Final output was to summarize the top 10 country names that in need to be helped by HELP International.
 
 ## Screenshots
-* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/cluster-gdp-2.png" alt="2-Means Clustering" width="80%" style="background-color=white;">
-* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/cluster-kematian-anak.png" alt="3-Means Clustering" width="80%" style="background-color=white;">
-* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/elbow-kematian-anak.png" alt="Elbow Method" width="80%" style="background-color=white;">
-* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/multivariate-heatmap.png" alt="Multivariate Heatmap" width="80%" style="background-color=white;">
-* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/outliers-gdp.png" alt="Outliers" width="80%" style="background-color=white;">
-* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/Uni-kesehatan.png" alt="Univariate Analyze" width="80%" style="background-color=white;">
+* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/cluster-gdp-2.png" alt="2-Means Clustering" width="80%" style="background-color:white;">
+* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/cluster-kematian-anak.png" alt="3-Means Clustering" width="80%" style="background-color:white;">
+* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/elbow-kematian-anak.png" alt="Elbow Method" width="80%" style="background-color:white;">
+* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/multivariate-heatmap.png" alt="Multivariate Heatmap" width="80%" style="background-color:white;">
+* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/outliers-gdp.png" alt="Outliers" width="80%" style="background-color:white;">
+* <img src="https://raw.githubusercontent.com/benidictusgalihmp/DS-HELP-International/main/img/Uni-kesehatan.png" alt="Univariate Analyze" width="80%" style="background-color:white;">
 
 ## Presentation
 Check out my presentation pdf file in <a href='https://github.com/benidictusgalihmp/DS-HELP-International/blob/main/doc/W04_F01.pdf'>here</a>. (Bahasa Indonesia)
